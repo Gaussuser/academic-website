@@ -77,7 +77,7 @@ languages:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
   - title: "Bando di concorso a n. 12 borse di studio e n. 6 aggiuntive..."
-    date: "2024-2025"
+    date: 2024-09-27
     awarder: INDAM
     summary: "Rejected due to overlap with regional institution grants."
 ---
